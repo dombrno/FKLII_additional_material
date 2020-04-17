@@ -1,5 +1,6 @@
-numpy==1.16.*
+numpy>=1.9.0
 matplotlib==3.*
-seaborn==0.8.1
+seaborn>=0.9.0
 pandas
-gpaw
+scipy
+ase
