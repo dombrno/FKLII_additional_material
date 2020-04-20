@@ -3,4 +3,4 @@ matplotlib==3.*
 seaborn>=0.9.0
 pandas
 scipy
-ase
+wand
